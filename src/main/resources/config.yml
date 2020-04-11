@@ -1,0 +1,9 @@
+# Whether to replace the overworld generator
+overworld: true
+# Whether to replace the nether generator
+nether: true
+
+# Block ID used to generate the pillar
+material: 49
+# Block meta
+meta: 0
